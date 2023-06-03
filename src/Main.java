@@ -7,7 +7,7 @@ public class Main{
 
         form.setContentPane(form.loginPanel);
         form.setVisible(true);
-        form.setSize(500, 500);
+        form.pack();
         form.setTitle("Tela de Login");
 
     }

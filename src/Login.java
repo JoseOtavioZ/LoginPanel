@@ -18,6 +18,7 @@ public class Login extends JFrame{
             novoUsuario.setSenha(textSenha.getText());
 
             JOptionPane.showMessageDialog(null,"Logado com sucesso");
+
         }
     });
 }
